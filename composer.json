@@ -1,0 +1,13 @@
+{
+    "name": "asus/programming-fun",
+    "authors": [
+        {
+            "name": "Hannan Malee",
+            "email": "art369963@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+    	"heroku/heroku-buildpack-php": "*"
+    }
+}
